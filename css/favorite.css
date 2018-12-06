@@ -1,0 +1,14 @@
+ h1 , p {
+    color:lightcoral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1  {
+    text-align:center;
+}
+*  {
+    background-color: blanchedalmond;
+}
+li  {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+}
